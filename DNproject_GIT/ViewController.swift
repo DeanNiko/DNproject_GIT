@@ -25,7 +25,7 @@ class ViewController: UIViewController {
         print("================================")
 
         print("Blok SRING_EASY_TASK3")
-        let patronymicNameUser = "Дін Іванович"
+        let patronymicNameUser = "Дін ІвановИЧ"
         patronymicOfUser(nameAndPatronymic: patronymicNameUser)
         print("================================")
 
